@@ -1,0 +1,22 @@
+Moon Phase Calculator
+
+This Python program allows you to determine the phase of the moon for a specific date. It calculates the moon's phase within a date range and categorizes it into one of several moon phase categories.
+
+Usage:
+
+1. Clone or download this repository to your local machine.
+
+2. Open a terminal or command prompt and navigate to the directory where you've stored the moon_phase_calculator.py file.
+
+3. Run the program by executing the following command:
+python moon_phase_calculator.py
+
+4. Enter a date in the format YYYY-MM-DD when prompted.
+
+5. The program will display the moon's phase for the entered date.
+
+Dependencies:
+
+1. This project includes the ephem library bundled within the project directory, so you don't need to separately install it.
+
+Note: If you encounter any issues or errors while running the program, please ensure that you have Python installed on your machine.
